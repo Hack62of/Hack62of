@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hack62of Kyazayako
 - 👀 I’m interested in FinTech
-- 🌱 I’m currently learning x.amount of $
+- 🌱 I’m currently learning...
 - 💞️ I’m looking to collaborate on idea and building it :)
 - 📫 How to reach me on GitHub
 
