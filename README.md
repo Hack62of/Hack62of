@@ -2,7 +2,7 @@
 - 👀 I’m interested in FinTech
 - 🌱 I’m currently learning...
 - 💞️ I’m looking forward to share idea and build it :)
-- 📫 Just reach @ GitHub
+- 📫 Just reach me @ GitHub
 
 <!---
 Hack62of/Hack62of is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
